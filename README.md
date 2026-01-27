@@ -2,7 +2,7 @@
 
 
 🎓 Computer Science @ York University  
-💻 Aspiring software engineer with a strong interest in building practical, user-focused applications
+💻 Software Engineering | Full-Stack & Application Development
 
 
 ### 🌱 Currently
