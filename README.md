@@ -1,7 +1,7 @@
 ## Hi 👋, welcome to my profile, I am Shaqayeq Salimy! 
 
 
-🎓 Computer Science @ York University  
+🎓 B.A. (Hons) Computer Science Graduate – York University  
 💻 Software Engineering | Full-Stack & Application Development
 
 
